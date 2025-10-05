@@ -1,11 +1,11 @@
 # 🎓 Graduate Admission Prediction using Machine Learning
 
-This project predicts the **chance of a student’s admission** to a graduate program based on their academic profile and test scores. Using machine learning regression techniques, it analyzes features such as GRE, TOEFL, CGPA, and research experience to estimate the probability of admission success.
+This project predicts the chance of a student’s admission to a graduate program based on their academic profile and test scores. Using machine learning regression techniques, it analyzes features such as GRE, TOEFL, CGPA, and research experience to estimate the probability of admission success.
 
 ---
 
 ## 🚀 Project Overview
-Graduate admission depends on multiple factors — academic scores, research experience, and other credentials. This project builds a **predictive model** to estimate a student’s likelihood of admission using data-driven analysis.
+Graduate admission depends on multiple factors — academic scores, research experience, and other credentials. This project builds a **Predictive model** to estimate a student’s likelihood of admission using data-driven analysis.
 
 **Goal:**  
 To create a model that accurately predicts the probability of admission based on input parameters.
@@ -59,7 +59,7 @@ The dataset contains profiles of students who applied for graduate programs.
 ---
 
 ## 📈 Results
-- Achieved **high prediction accuracy** with Linear Regression.  
+- Achieved **High Prediction Accuracy** with Linear Regression.  
 - Found **CGPA, GRE, and Research** to be the most influential features.  
 - Generated a regression line showing strong correlation between predicted and actual values.
 
@@ -67,4 +67,5 @@ The dataset contains profiles of students who applied for graduate programs.
 
 ## 🏁 Conclusion
 This project demonstrates how machine learning can assist universities or applicants in understanding the probability of admission based on academic metrics. It’s a compact, educational, and practical example of predictive modeling in real-world applications.
+
 
