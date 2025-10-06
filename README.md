@@ -66,6 +66,6 @@ The dataset contains profiles of students who applied for graduate programs.
 ---
 
 ## 🏁 Conclusion
-This project demonstrates how machine learning can assist universities or applicants in understanding the probability of admission based on academic metrics. It’s a compact, educational, and practical example of predictive modeling in real-world applications.
+This project shows how machine learning can help universities and applicants estimate the chances of admission based on academic scores and other key factors. It’s a simple, practical, and educational example of using predictive modeling in real-world decision-making.
 
 
